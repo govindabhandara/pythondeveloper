@@ -1,0 +1,40 @@
+python is general purpose programming :
+    1) scripting programming
+    2) Function
+    3) Object Oriented Programming (OOP)
+
+OOP: We can create object by using class.
+    eg. class Account:
+            pass
+            to maintain dummy block
+        a1=Account()
+        id(a1)
+        id(a2)
+
+Class : Class is a template, design, plan, draft, data type (blue print), to construct objects.
+        It uses to construct object.
+        class Contain variable and methods.
+        class Account:
+            variables and methods
+            to maintain dummy block
+        a1=Account()
+        id(a1)
+        id(a2)
+        We use the class name with always capital letter.
+        when once object is created then memory loc allocated.
+        variables and methods
+        
+variables: 
+        1) local variable
+        2) class variable/static 
+        3) instance variable
+
+method: 
+        1) instance method
+        2) class method
+        3) static method || construct method
+
+self: self is a keyword/pointing to current object ,
+      Inside class to access class members. 
+
+

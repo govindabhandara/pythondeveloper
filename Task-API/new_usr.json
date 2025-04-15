@@ -1,0 +1,152 @@
+[
+  {
+    "user_id": 1,
+    "user_title": "Essence Mascara Lash Princess",
+    "user_rating": 4.94
+  },
+  {
+    "user_id": 2,
+    "user_title": "Eyeshadow Palette with Mirror",
+    "user_rating": 3.28
+  },
+  {
+    "user_id": 3,
+    "user_title": "Powder Canister",
+    "user_rating": 3.82
+  },
+  {
+    "user_id": 4,
+    "user_title": "Red Lipstick",
+    "user_rating": 2.51
+  },
+  {
+    "user_id": 5,
+    "user_title": "Red Nail Polish",
+    "user_rating": 3.91
+  },
+  {
+    "user_id": 6,
+    "user_title": "Calvin Klein CK One",
+    "user_rating": 4.85
+  },
+  {
+    "user_id": 7,
+    "user_title": "Chanel Coco Noir Eau De",
+    "user_rating": 2.76
+  },
+  {
+    "user_id": 8,
+    "user_title": "Dior J'adore",
+    "user_rating": 3.31
+  },
+  {
+    "user_id": 9,
+    "user_title": "Dolce Shine Eau de",
+    "user_rating": 2.68
+  },
+  {
+    "user_id": 10,
+    "user_title": "Gucci Bloom Eau de",
+    "user_rating": 2.69
+  },
+  {
+    "user_id": 11,
+    "user_title": "Annibale Colombo Bed",
+    "user_rating": 4.14
+  },
+  {
+    "user_id": 12,
+    "user_title": "Annibale Colombo Sofa",
+    "user_rating": 3.08
+  },
+  {
+    "user_id": 13,
+    "user_title": "Bedside Table African Cherry",
+    "user_rating": 4.48
+  },
+  {
+    "user_id": 14,
+    "user_title": "Knoll Saarinen Executive Conference Chair",
+    "user_rating": 4.11
+  },
+  {
+    "user_id": 15,
+    "user_title": "Wooden Bathroom Sink With Mirror",
+    "user_rating": 3.26
+  },
+  {
+    "user_id": 16,
+    "user_title": "Apple",
+    "user_rating": 2.96
+  },
+  {
+    "user_id": 17,
+    "user_title": "Beef Steak",
+    "user_rating": 2.83
+  },
+  {
+    "user_id": 18,
+    "user_title": "Cat Food",
+    "user_rating": 2.88
+  },
+  {
+    "user_id": 19,
+    "user_title": "Chicken Meat",
+    "user_rating": 4.61
+  },
+  {
+    "user_id": 20,
+    "user_title": "Cooking Oil",
+    "user_rating": 4.01
+  },
+  {
+    "user_id": 21,
+    "user_title": "Cucumber",
+    "user_rating": 4.71
+  },
+  {
+    "user_id": 22,
+    "user_title": "Dog Food",
+    "user_rating": 2.74
+  },
+  {
+    "user_id": 23,
+    "user_title": "Eggs",
+    "user_rating": 4.46
+  },
+  {
+    "user_id": 24,
+    "user_title": "Fish Steak",
+    "user_rating": 4.83
+  },
+  {
+    "user_id": 25,
+    "user_title": "Green Bell Pepper",
+    "user_rating": 4.28
+  },
+  {
+    "user_id": 26,
+    "user_title": "Green Chili Pepper",
+    "user_rating": 4.43
+  },
+  {
+    "user_id": 27,
+    "user_title": "Honey Jar",
+    "user_rating": 3.5
+  },
+  {
+    "user_id": 28,
+    "user_title": "Ice Cream",
+    "user_rating": 3.77
+  },
+  {
+    "user_id": 29,
+    "user_title": "Juice",
+    "user_rating": 3.41
+  },
+  {
+    "user_id": 30,
+    "user_title": "Kiwi",
+    "user_rating": 4.37
+  }
+]

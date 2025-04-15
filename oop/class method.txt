@@ -1,0 +1,4 @@
+instance method : self 
+class method : @classmethod
+static method : @staticmethod 
+where @classmethod and @staticmethod both are decorator.

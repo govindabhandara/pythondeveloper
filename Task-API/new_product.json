@@ -1,0 +1,212 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "Essence Mascara Lash Princess",
+    "product_category": "beauty",
+    "product_price": 9.99,
+    "product_stock": 5
+  },
+  {
+    "product_id": 2,
+    "product_title": "Eyeshadow Palette with Mirror",
+    "product_category": "beauty",
+    "product_price": 19.99,
+    "product_stock": 44
+  },
+  {
+    "product_id": 3,
+    "product_title": "Powder Canister",
+    "product_category": "beauty",
+    "product_price": 14.99,
+    "product_stock": 59
+  },
+  {
+    "product_id": 4,
+    "product_title": "Red Lipstick",
+    "product_category": "beauty",
+    "product_price": 12.99,
+    "product_stock": 68
+  },
+  {
+    "product_id": 5,
+    "product_title": "Red Nail Polish",
+    "product_category": "beauty",
+    "product_price": 8.99,
+    "product_stock": 71
+  },
+  {
+    "product_id": 6,
+    "product_title": "Calvin Klein CK One",
+    "product_category": "fragrances",
+    "product_price": 49.99,
+    "product_stock": 17
+  },
+  {
+    "product_id": 7,
+    "product_title": "Chanel Coco Noir Eau De",
+    "product_category": "fragrances",
+    "product_price": 129.99,
+    "product_stock": 41
+  },
+  {
+    "product_id": 8,
+    "product_title": "Dior J'adore",
+    "product_category": "fragrances",
+    "product_price": 89.99,
+    "product_stock": 91
+  },
+  {
+    "product_id": 9,
+    "product_title": "Dolce Shine Eau de",
+    "product_category": "fragrances",
+    "product_price": 69.99,
+    "product_stock": 3
+  },
+  {
+    "product_id": 10,
+    "product_title": "Gucci Bloom Eau de",
+    "product_category": "fragrances",
+    "product_price": 79.99,
+    "product_stock": 93
+  },
+  {
+    "product_id": 11,
+    "product_title": "Annibale Colombo Bed",
+    "product_category": "furniture",
+    "product_price": 1899.99,
+    "product_stock": 47
+  },
+  {
+    "product_id": 12,
+    "product_title": "Annibale Colombo Sofa",
+    "product_category": "furniture",
+    "product_price": 2499.99,
+    "product_stock": 16
+  },
+  {
+    "product_id": 13,
+    "product_title": "Bedside Table African Cherry",
+    "product_category": "furniture",
+    "product_price": 299.99,
+    "product_stock": 16
+  },
+  {
+    "product_id": 14,
+    "product_title": "Knoll Saarinen Executive Conference Chair",
+    "product_category": "furniture",
+    "product_price": 499.99,
+    "product_stock": 47
+  },
+  {
+    "product_id": 15,
+    "product_title": "Wooden Bathroom Sink With Mirror",
+    "product_category": "furniture",
+    "product_price": 799.99,
+    "product_stock": 95
+  },
+  {
+    "product_id": 16,
+    "product_title": "Apple",
+    "product_category": "groceries",
+    "product_price": 1.99,
+    "product_stock": 9
+  },
+  {
+    "product_id": 17,
+    "product_title": "Beef Steak",
+    "product_category": "groceries",
+    "product_price": 12.99,
+    "product_stock": 96
+  },
+  {
+    "product_id": 18,
+    "product_title": "Cat Food",
+    "product_category": "groceries",
+    "product_price": 8.99,
+    "product_stock": 13
+  },
+  {
+    "product_id": 19,
+    "product_title": "Chicken Meat",
+    "product_category": "groceries",
+    "product_price": 9.99,
+    "product_stock": 69
+  },
+  {
+    "product_id": 20,
+    "product_title": "Cooking Oil",
+    "product_category": "groceries",
+    "product_price": 4.99,
+    "product_stock": 22
+  },
+  {
+    "product_id": 21,
+    "product_title": "Cucumber",
+    "product_category": "groceries",
+    "product_price": 1.49,
+    "product_stock": 22
+  },
+  {
+    "product_id": 22,
+    "product_title": "Dog Food",
+    "product_category": "groceries",
+    "product_price": 10.99,
+    "product_stock": 40
+  },
+  {
+    "product_id": 23,
+    "product_title": "Eggs",
+    "product_category": "groceries",
+    "product_price": 2.99,
+    "product_stock": 10
+  },
+  {
+    "product_id": 24,
+    "product_title": "Fish Steak",
+    "product_category": "groceries",
+    "product_price": 14.99,
+    "product_stock": 99
+  },
+  {
+    "product_id": 25,
+    "product_title": "Green Bell Pepper",
+    "product_category": "groceries",
+    "product_price": 1.29,
+    "product_stock": 89
+  },
+  {
+    "product_id": 26,
+    "product_title": "Green Chili Pepper",
+    "product_category": "groceries",
+    "product_price": 0.99,
+    "product_stock": 8
+  },
+  {
+    "product_id": 27,
+    "product_title": "Honey Jar",
+    "product_category": "groceries",
+    "product_price": 6.99,
+    "product_stock": 25
+  },
+  {
+    "product_id": 28,
+    "product_title": "Ice Cream",
+    "product_category": "groceries",
+    "product_price": 5.49,
+    "product_stock": 76
+  },
+  {
+    "product_id": 29,
+    "product_title": "Juice",
+    "product_category": "groceries",
+    "product_price": 3.99,
+    "product_stock": 99
+  },
+  {
+    "product_id": 30,
+    "product_title": "Kiwi",
+    "product_category": "groceries",
+    "product_price": 2.49,
+    "product_stock": 1
+  }
+]
