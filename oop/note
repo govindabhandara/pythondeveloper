@@ -38,3 +38,16 @@ self: self is a keyword/pointing to current object ,
       Inside class to access class members. 
 
 
+Features in OOP:
+1) Abstraction 
+2) Encapsulation
+3) Inheritance
+4) Polymorphism 
+
+Inheritance: Reusing the existing class Functionally and addiing/extending new features
+1) simple inheritance 
+2) Multiple inheritance
+3) Multilevel inheritance
+4) hybrid or hirerchical inheritance
+
+
