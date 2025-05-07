@@ -129,7 +129,7 @@ print(f"largest num is:{max_num}")
 '''
 # count vowel in a string
 '''
-            text="Programming is fun."
+text="Programming is fun."
 vowels='aeiouAEIOU'
 count=0
 for char in text:
