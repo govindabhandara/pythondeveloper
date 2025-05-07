@@ -1,0 +1,39 @@
+Python is a widely used general-purpose, high level programming language. It was initially
+designed by Guido van Rossum in 1991 and developed by Python Software Foundation. It
+was mainly developed for emphasis on code readability, and its syntax allows programmers
+to express concepts in fewer lines of code.
+Python is a programming language that lets you work quickly and integrate systems more
+efficiently.
+
+The following are the primary factors to use python in day-to-day life:
+1. Python is object-oriented
+	Structure supports such concepts as polymorphism, operation overloading and
+	multiple inheritance.
+2. Indentation
+	Indentation is one of the greatest feature in python
+3. It’s free (open source)
+	Downloading python and installing python is free and easy
+4. It’s Powerful
+	. Dynamic typing
+	. Built-in types and tools
+	. Library utilities
+	. Third party utilities (e.g. Numeric, NumPy, sciPy)
+	. Automatic memory management
+5. It’s Portable
+	. Python runs virtually every major platform used today
+	. As long as you have a compaitable python interpreter installed, python
+programs will run in exactly the same manner, irrespective of platform.
+6. It’s easy to use and learn
+	. No intermediate compile
+	. Python Programs are compiled automatically to an intermediate form called
+	  byte code, which the interpreter then reads.
+	. This gives python the development speed of an interpreter without the
+performance loss inherent in purely interpreted languages.
+	. Structure and syntax are pretty intuitive and easy to grasp.
+7. Interpreted Language
+	. Python is processed at runtime by python Interpreter
+8. Interactive Programming Language
+	. Users can interact with the python interpreter directly for writing the programs
+9. Straight forward syntax
+	. The formation of python syntax is simple and straight forward which also makes it
+	  popular.
